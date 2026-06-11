@@ -68,7 +68,6 @@ Add dashboard screenshots here after uploading them to the repository.
 .
 ├── blinkit(1).pbix
 ├── README.md
-└── screenshots/
 ```
 
 ## Author
